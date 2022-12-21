@@ -9,3 +9,6 @@ Microphone ON Check/Email trigger script also within this file.
 - Notes:
   - Device Name has maximum 8 character length.
   - UDP Port 53212 is the only port the Sennheiser communicates on.
+
+
+![image](https://user-images.githubusercontent.com/98933978/209020536-1369122c-6f44-411e-aaf9-1452303472cb.png)
